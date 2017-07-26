@@ -1,0 +1,1707 @@
+# Translation of Themes - Moesia in French (France)
+# This file is distributed under the same license as the Themes - Moesia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-29 15:18:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Moesia\n"
+
+#. Theme Name of the plugin/theme
+msgid "Moesia"
+msgstr "Moesia"
+
+#. Description of the plugin/theme
+msgid "Moesia is the business theme you need in order to build your presence on the Internet. Choose from eleven predefined blocks and build the homepage that best suits your company. Each of the homepage blocks can have a parallax background image and its own set of colors. Moesia also features a selection of Google Fonts, two types of layouts for the blog page, cool animations and effects, a parallax header and much more."
+msgstr "Moesia est le thème d&rsquo;affaires dont vous avez besoin pour construire votre présence sur internet. Choisissez entre onze blocs prédéfinis et construisez votre page d&rsquo;accueil à l&rsquo;image de votre entreprise. Chaque bloc de page d&rsquo;accueil peut avoir une image de fond avec un effet parallax et son propre jeu de couleurs. Moesia a aussi une sélection de polices Google, deux types de style pour le blog, des effets et des animations, un en-tête parallax et plus encore."
+
+#: searchform.php:14
+msgid "Search &#8230;"
+msgstr "Rechercher &#8230;"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l&rsquo;extension %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension n'a été sélectionnée pour activation. Aucune action ne sera effectuée."
+
+#: plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Aucune extension n'a été sélectionnée pour être mise à jour. Aucune action ne sera effectuée. "
+
+#: plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune mise à jour n'est disponible pour les extensions pour le moment."
+
+#: plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Aucune extension n'a été sélectionnée pour être installée. Aucune action ne sera effectuée."
+
+#: plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Mise à jour"
+
+#: plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à niveau de l&rsquo;auteur de l'extension&nbsp;:"
+
+#: plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnue"
+
+#: plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Version minimale requise :"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "A activer <span class=\"count\">(%s)</span>"
+msgstr[1] "A activer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Prête à mettre à jour <span class=\"count\">(%s)</span>"
+msgstr[1] "Prêtes à mettre à jour <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "A Installer <span class=\"count\">(%s)</span>"
+msgstr[1] "A Installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tous <span class=\"count\">%s</span>"
+msgstr[1] "Tous <span class=\"count\">%s</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activé"
+
+#: plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Mise à jour requise non disponible"
+
+#: plugins/class-tgm-plugin-activation.php:1121
+#: plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Source externe"
+
+#: plugins/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Le paquet distant de l'extension contient plus d'un fichier, mais les fichiers ne sont pas empaquetés dans un dossier."
+
+#: plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Mise à jour nécessaires"
+
+#: plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur est apparue avec l'API de l'extension."
+
+#: plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Démarrer la mise à jour de l'extension"
+msgstr[1] "Démarrer la mise à jour des extensions"
+
+#: plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l'administrateur du site pour le support."
+
+#: plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Cette extension doit être mise à jour pour être compatible avec votre thème."
+
+#: plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#: plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Le paquet distant de l'extension ne contient pas de dossier avec l&rsquo;identifiant désiré et le renommage n'a pas fonctionné."
+
+#: plugins/class-tgm-plugin-activation.php:934
+#: plugins/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Veuillez contacter le fournisseur de l'extension et demandez-lui d'empaqueter son extension en respectant les instructions de WordPress."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action effectuée. L'extension %1$s était déjà activée."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Extension non activée. Une version plus récente de %s est requise pour ce thème. Merci de mettre à jour l&rsquo;extension."
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Pleine Largeur"
+
+#. Template Name of the plugin/theme
+msgid "Services"
+msgstr "Services"
+
+#. Template Name of the plugin/theme
+msgid "Testimonials"
+msgstr "T&eacute;moignages"
+
+#: widgets/video-widget.php:25
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Collez l'URL de la vidéo (uniquement depuis un réseau qui supporte oEmbed, comme Youtube, Vimeo, etc.) :"
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr "Page d’accueil"
+
+#: widgets/social-profile.php:6
+msgid "Moesia: Social Profile"
+msgstr "Moesia&nbsp;: Profil social"
+
+#: widgets/video-widget.php:7
+msgid "Display a video in your sidebar."
+msgstr "Afficher une vidéeo dans votre colonne latérale. "
+
+#: widgets/video-widget.php:8
+msgid "Moesia: Video"
+msgstr "Moesia&nbsp;: Vidéo"
+
+#. Template Name of the plugin/theme
+msgid "Employees"
+msgstr "Employés"
+
+#: widgets/recent-posts.php:30
+msgid "Display post date?"
+msgstr "Afficher la date du contenu&nbsp;?"
+
+#: widgets/recent-posts.php:8
+msgid "Moesia: Recent Posts"
+msgstr "Moesia&nbsp;: Articles récents"
+
+#: widgets/recent-posts.php:7
+msgid "Display your site&#8217;s recent posts with thumbnails."
+msgstr "Affiche les articles récents de votre site avec miniatures."
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: widgets/recent-comments.php:89
+msgid "%1$s on %2$s"
+msgstr "%1$s sur %2$s"
+
+#: widgets/recent-comments.php:124
+msgid "Number of comments to show:"
+msgstr "Nombre de commentaires à afficher&nbsp;:"
+
+#: widgets/fp-testimonials.php:49
+msgid "Show random testimonials?"
+msgstr "Montrer les témoignages aléatoires ?"
+
+#: widgets/fp-testimonials.php:7
+msgid "Display testimonials from your clients."
+msgstr "Afficher les témoignages de vos clients."
+
+#: widgets/fp-testimonials.php:8
+msgid "Moesia FP: Testimonials"
+msgstr "Moesia FP&nbsp;: Témoignages"
+
+#: widgets/fp-testimonials.php:25
+msgid "In order to display this widget, you must first add some testimonials from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "Pour afficher ce widget, vous devez d'abord ajouter quelques témoignages depuis le tableau de bord. Ajoutez-en autant que vous voulez et le thème affichera les tous automatiquement."
+
+#: widgets/fp-testimonials.php:40
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "Nombre de témoignages à afficher (-1 les affiche tous)&nbsp;:"
+
+#: widgets/fp-testimonials.php:42
+msgid "Enter the URL for your testimonials page. Useful if you want to show here just a few testimonials, then send your visitors to a page that uses the testimonials page template."
+msgstr "Entrez l'URL de votre page de témoignages. Utile si vous voulez montrer ici que quelques témoignages, puis envoyer vos visiteurs vers une page qui utilise le modèle de page de témoignages."
+
+#: widgets/fp-testimonials.php:44
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "Le texte pour le bouton [par défaut <em>Voir tous nos témoignages</em> si laissé vide]"
+
+#: widgets/fp-testimonials.php:46
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr "Entrer l'identifiant de votre catégorie ou laisser vide pour afficher tous vos témoignages."
+
+#: widgets/fp-testimonials.php:95
+msgid "What our clients say"
+msgstr "Ce que vos clients disent"
+
+#: widgets/fp-testimonials.php:149
+msgid "See all our testimonials"
+msgstr "Voir tous nos témoignages"
+
+#: widgets/recent-comments.php:7
+msgid "Moesia: Recent Comments"
+msgstr "Moesia&nbsp;: Commentaires récents"
+
+#: widgets/recent-comments.php:6
+msgid "Display your site&#8217;s recent comments with avatars."
+msgstr "Affiche les commentaires récents de votre site avec avatars."
+
+#: widgets/fp-social.php:85 widgets/social-profile.php:68
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Sélectionner &mdash;"
+
+#: widgets/fp-social.php:81 widgets/social-profile.php:64
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "Pour afficher vos icônes sociales dans un widget, tout ce que vous devez faire est d'aller dans <strong>Apparence > Menus </strong> et créer un menu contenant des liens vers vos profils sociaux, puis assignez ce menu ici. Réseaux supportés&nbsp;: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, YouTube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: widgets/fp-social.php:83 widgets/social-profile.php:66
+msgid "Select your social menu:"
+msgstr "Sélectionnez votre menu social&nbsp;:"
+
+#: widgets/fp-social.php:73 widgets/social-profile.php:56
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Aucun menu n&rsquo;a été créé pour le moment. <a href=\"%s\">En créer un</a>."
+
+#: widgets/fp-social.php:78 widgets/recent-comments.php:121
+#: widgets/social-profile.php:61
+msgid "Title:"
+msgstr "Titre :"
+
+#: widgets/fp-services.php:7
+msgid "Show what services you are able to provide."
+msgstr "Montrer les services que vous êtes en mesure de fournir. "
+
+#: widgets/fp-services.php:8
+msgid "Moesia FP: Services"
+msgstr "Moesia FP&nbsp;: Services"
+
+#: widgets/fp-services.php:24
+msgid "In order to display this widget, you must first add some services from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "Pour afficher ce widget, vous devez d'abord ajouter quelques services depuis le tableau de bord. Ajoutez-en autant que vous voulez et le thème les affichera tous automatiquement."
+
+#: widgets/fp-services.php:38
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "Nombre de services à afficher (-1 les affiche tous)&nbsp;:"
+
+#: widgets/fp-services.php:40
+msgid "Enter the URL for your services page. Useful if you want to show here just a few services, then send your visitors to a page that uses the Services page template."
+msgstr "Entrez l'URL de votre page de services. C'est utile si vous voulez montrer ici que quelques services, puis envoyer vos visiteurs vers une page qui utilise le modèle de page Services."
+
+#: widgets/fp-services.php:42
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "Le texte pour le bouton [par défaut <em>Voir tous nos services</em> si laissé vide]"
+
+#: widgets/fp-services.php:44
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr "Entrer l'identifiant de votre catégorie ou laisser vide pour afficher tous vos services."
+
+#: widgets/fp-services.php:90
+msgid "Our Services"
+msgstr "Nos services"
+
+#: widgets/fp-services.php:141
+msgid "See all our services"
+msgstr "Voir tous nos services"
+
+#: widgets/fp-skills.php:7
+msgid "Show your strongest five skills."
+msgstr "Montrer vos cinq plus fortes compétneces."
+
+#: widgets/fp-skills.php:8
+msgid "Moesia FP: Skills"
+msgstr "Moesia FP&nbsp;: Compétences"
+
+#: widgets/fp-skills.php:37
+msgid "Enter your description for the skills area."
+msgstr "Entrez votre description pour la zone de compétences."
+
+#: widgets/fp-skills.php:43
+msgid "First skill name"
+msgstr "Nom de la première compétence"
+
+#: widgets/fp-skills.php:48
+msgid "First skill value"
+msgstr "Contenu de la première compétence"
+
+#: widgets/fp-skills.php:54
+msgid "Second skill name"
+msgstr "Nom de la seconde compétence"
+
+#: widgets/fp-skills.php:59
+msgid "Second skill value"
+msgstr "Contenu de la seconde compétence"
+
+#: widgets/fp-skills.php:65
+msgid "Third skill name"
+msgstr "Nom de la troiseième compétence"
+
+#: widgets/fp-skills.php:70
+msgid "Third skill value"
+msgstr "Contenu de la troisième compétence"
+
+#: widgets/fp-skills.php:76
+msgid "Fourth skill name"
+msgstr "Nom de la quatrième compétence"
+
+#: widgets/fp-skills.php:81
+msgid "Fourth skill value"
+msgstr "Contenu de la quatrième compétence"
+
+#: widgets/fp-skills.php:87
+msgid "Fifth skill name"
+msgstr "Nom de la cinquième compétence"
+
+#: widgets/fp-skills.php:92
+msgid "Fifth skill value"
+msgstr "Contenu de la cinquième compétence"
+
+#: widgets/fp-skills.php:155
+msgid "Our skills"
+msgstr "Nos compétences"
+
+#: widgets/fp-social.php:5 widgets/social-profile.php:5
+msgid "Add your social profile."
+msgstr "Ajouter votre profil social"
+
+#: widgets/fp-social.php:6
+msgid "Moesia FP: Social Profile"
+msgstr "Moesia FP&nbsp;: Profil social"
+
+#: widgets/fp-latest-news.php:88
+msgid "Latest news"
+msgstr "Dernières nouvelles"
+
+#: widgets/fp-latest-news.php:93 widgets/fp-latest-news.php:142
+msgid "See all our news"
+msgstr "Voir toutes nos nouvelles"
+
+#: widgets/fp-projects.php:7
+msgid "Show your most intresting projects."
+msgstr "Montrez vos projets les plus intéressants."
+
+#: widgets/fp-projects.php:8
+msgid "Moesia FP: Projects"
+msgstr "Moesia FP&nbsp;: Projets"
+
+#: widgets/fp-projects.php:24
+msgid "In order to display this widget, you must first add some projects from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "Pour afficher ce widget, vous devez d'abord ajouter quelques projets depuis le tableau de bord. Ajoutez-en autant que vous le voulez et le thème les affichera tous automatiquement."
+
+#: widgets/fp-projects.php:29
+msgid "Enter the slug for your category or leave empty to show all projects."
+msgstr "Entrer l'identifiant de votre catégorie ou laisser vide pour afficher tous les projets."
+
+#: widgets/fp-projects.php:90
+msgid "Our projects"
+msgstr "Nos projets"
+
+#: widgets/fp-projects.php:40
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "Nombre de projets à afficher (-1 les affiche tous) :"
+
+#: widgets/fp-projects.php:42
+msgid "Enter the URL for your projects page [optional]"
+msgstr "Entrez l'URL de votre page projets [optionnel]"
+
+#: widgets/fp-projects.php:44
+msgid "The text for the button [Defaults to <em>See all our projects</em> if left empty]"
+msgstr "Le texte pour le bouton [Par défaut <em>Voyez tous nos projets</em> si laissé vide]"
+
+#: widgets/fp-projects.php:148
+msgid "See all our projects"
+msgstr "Voyez tous nos projets"
+
+#: widgets/fp-call-to-action.php:30
+msgid "Enter your call to action."
+msgstr "Entrez votre appel à l'action."
+
+#: widgets/fp-call-to-action.php:35
+msgid "Link for the button"
+msgstr "Lien du bouton"
+
+#: widgets/fp-call-to-action.php:40
+msgid "Title for the button"
+msgstr "Titre du bouton"
+
+#: widgets/fp-clients.php:7
+msgid "Show your visitors your impressive client list."
+msgstr "Montrer à vos visiteurs votre liste impressionnante de clients."
+
+#: widgets/fp-latest-news.php:28
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Entrez la limace pour votre catégorie ou laissez vide pour afficher les messages de toutes les catégories."
+
+#: widgets/fp-latest-news.php:34 widgets/recent-posts.php:26
+msgid "Number of posts to show:"
+msgstr "Nombre d'articles à afficher :"
+
+#: widgets/fp-blockquote.php:7
+msgid "Add a short message to your visitors and an image"
+msgstr "Ajoutez une image et un bref message pour vos visiteurs"
+
+#: widgets/fp-blockquote.php:8
+msgid "Moesia FP: Blockquote"
+msgstr "Moesia FP&nbsp: Bloc de citation"
+
+#: widgets/fp-blockquote.php:28
+msgid "Enter your blockquote. No tags necessary."
+msgstr "Entrer votre bloc de citation. pas de balise nécessaire."
+
+#: widgets/fp-blockquote.php:33
+msgid "Quote author"
+msgstr "Auteur de la citation "
+
+#: widgets/fp-blockquote.php:42
+msgid "Upload an image to show up next to your quote."
+msgstr "Mettre en ligne une image à afficher à côté de votre citation."
+
+#: widgets/fp-call-to-action.php:7
+msgid "Display a call to action block."
+msgstr "Afficher un bloc d'appel à l'action"
+
+#: widgets/fp-call-to-action.php:8
+msgid "Moesia FP: Call to action"
+msgstr "Moesia FP&nbsp;: Appel à l'action"
+
+#: widgets/fp-call-to-action.php:49 widgets/fp-clients.php:31
+#: widgets/fp-employees.php:35 widgets/fp-facts.php:83
+#: widgets/fp-latest-news.php:42 widgets/fp-projects.php:37
+#: widgets/fp-services.php:35 widgets/fp-skills.php:101
+#: widgets/fp-social.php:100 widgets/fp-testimonials.php:37
+msgid "[DEPRECATED - Go to Edit Row > Theme > Background image] Upload an image for the background if you want. It will get a parallax effect."
+msgstr "[OBSOLÈTE - Allez dans Modifier rangée> Thème> Image d'arrière-plan] Mettre en ligne une image pour le fond si vous le voulez. Cela générera un effet de parallaxe."
+
+#: widgets/fp-clients.php:8
+msgid "Moesia FP: Clients"
+msgstr "Moesia FP&nbsp;: Clients"
+
+#: widgets/fp-clients.php:20
+msgid "In order to display this widget, you must first add some clients from the dashboard. Add as many as you want and the theme will automatically display their logos in a carousel."
+msgstr "Pour afficher ce widget, vous devez d'abord ajouter des clients à partir du tableau de bord. Ajoutez-en autant que vous voulez et le thème affichera automatiquement leurs logos dans un carrousel."
+
+#: widgets/fp-clients.php:74
+msgid "Our clients"
+msgstr "Nos clients"
+
+#: widgets/fp-employees.php:7
+msgid "Display your team members in a stylish way."
+msgstr "Afficher les membres de votre équipe d'une manière élégante."
+
+#: widgets/fp-employees.php:8
+msgid "Moesia FP: Employees"
+msgstr "Moesia FP&nbsp;: Employés"
+
+#: widgets/fp-employees.php:24
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "Pour afficher ce widget, vous devez d'abord ajouter quelques employés à partir du tableau de bord. Ajoutez-en autant que vous voulez et le thème les affichera tous automatiquement."
+
+#: widgets/fp-employees.php:38
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "Nombre d'employés à ajouter (-1 pour les afficher tous)"
+
+#: widgets/fp-employees.php:40
+msgid "Enter the URL for your employees page. Useful if you want to show here just a few employees, then send your visitors to a page that uses the employees page template."
+msgstr "Entrez l'URL de votre page des employés. C'est utile si vous ne voulez montrer ici que quelques employés, puis envoyer vos visiteurs vers une page qui utilise le modèle de page employés."
+
+#: widgets/fp-employees.php:42
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "Le texte du bouton [par défaut <em>Voir tous nos employés</em> si laissé vide]"
+
+#: widgets/fp-employees.php:45
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr "Entrer l'identifiant de votre catégorie ou laisser vide pour afficher tous vos employés."
+
+#: widgets/fp-employees.php:91
+msgid "Our Employees"
+msgstr "Nos collaborateurs"
+
+#: widgets/fp-employees.php:171
+msgid "See all our employees"
+msgstr "Voir tous nos employés"
+
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "Montrer à vos visiteurs quelques réalisations de votre entreprise."
+
+#: widgets/fp-facts.php:8
+msgid "Moesia FP: Facts"
+msgstr "Moesia FP&nbsp;: Faits"
+
+#: widgets/fp-facts.php:36
+msgid "First fact name"
+msgstr "Nom du premier fait"
+
+#: widgets/fp-facts.php:41
+msgid "First fact value"
+msgstr "Contenu du premier fait"
+
+#: widgets/fp-facts.php:47
+msgid "Second fact name"
+msgstr "Nom du second fait"
+
+#: widgets/fp-facts.php:52
+msgid "Second fact value"
+msgstr "Contenu du second fait"
+
+#: widgets/fp-facts.php:58
+msgid "Third fact name"
+msgstr "Nom du troisième fait"
+
+#: widgets/fp-facts.php:63
+msgid "Third fact value"
+msgstr "Contenu du troisième fait"
+
+#: widgets/fp-facts.php:69
+msgid "Fourth fact name"
+msgstr "Nom du quatrième fait"
+
+#: widgets/fp-facts.php:74
+msgid "Fourth fact value"
+msgstr "Contenu du quatrième fait"
+
+#: widgets/fp-facts.php:134
+msgid "Our facts"
+msgstr "Nos faits"
+
+#: widgets/fp-latest-news.php:7
+msgid "Show the latest news from your blog."
+msgstr "Montrer les dernières nouvelles de votre blog."
+
+#: widgets/fp-latest-news.php:8
+msgid "Moesia FP: Latest News"
+msgstr "Moesia FP&nbsp;: Dernières nouvelles"
+
+#: widgets/fp-latest-news.php:31
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "Ajouter le texte du bouton ici si vous voulez changer le <em>Voir toutes les news</em>"
+
+#: widgets/contact-info.php:90
+msgid "Address: "
+msgstr "Adresse : "
+
+#: widgets/contact-info.php:95
+msgid "Phone: "
+msgstr "Téléphone : "
+
+#: widgets/contact-info.php:100
+msgid "Email: "
+msgstr "Email"
+
+#: widgets/contact-info.php:27
+msgid "Enter your address"
+msgstr "Entrez votre adresse"
+
+#: widgets/contact-info.php:30
+msgid "Enter your phone number"
+msgstr "Entrez votre numéro de téléphone"
+
+#: widgets/contact-info.php:33
+msgid "Enter your email address"
+msgstr "Entrez votre adresse e-mail"
+
+#: widgets/contact-info.php:78
+msgid "Contact info"
+msgstr "Informations de contact"
+
+#: widgets/contact-info.php:7
+msgid "Display your contact info"
+msgstr "Affichez vos coordonnées"
+
+#: widgets/contact-info.php:23 widgets/fp-blockquote.php:23
+#: widgets/fp-call-to-action.php:25 widgets/fp-clients.php:22
+#: widgets/fp-employees.php:26 widgets/fp-facts.php:30
+#: widgets/fp-latest-news.php:24 widgets/fp-projects.php:26
+#: widgets/fp-services.php:26 widgets/fp-skills.php:32
+#: widgets/fp-testimonials.php:28 widgets/recent-posts.php:22
+#: widgets/video-widget.php:21
+msgid "Title"
+msgstr "Titre"
+
+#: widgets/contact-info.php:8
+msgid "Moesia: Contact info"
+msgstr "Moesia: coordonnées de contact"
+
+#: searchform.php:13 searchform.php:14
+msgid "Search for:"
+msgstr "Recherche pour&nbsp;:"
+
+#: plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour&nbsp;: %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Démarrage de l'installation. Cela, selon l'hôte, peut prendre un certain temps. Patienter...."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s a bien été installé."
+
+#: plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Toutes les instalations et activations ont été effectuées."
+
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Cacher les détails"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a bien été installé et activé."
+
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#: plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Démarrage de l'installation et de l'activation de l'extension. Son déroulement, selon l'hôte, peut prendre un certain temps. Patienter..."
+
+#: plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "L'activation de l'extension a échoué."
+
+#. translators: 1: plugin name, 2: error message.
+#: plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur est apparue lors de l'installation de: %1$s: <strong>%2$s</strong>."
+
+#: plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Pas d'extensions disponibles pour être installées en ce moment."
+
+#: plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Pas d'extensions disponibles pour être activées en ce moment."
+
+#: plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activer"
+
+#: plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Humeur du moment"
+
+#: plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Adresse web source"
+
+#: plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Extension"
+
+#: plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommandé(e)"
+
+#: plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Non installé(e)"
+
+#: plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installé(e) mais non activé(e)"
+
+#: plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-packagé"
+
+#: plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Référentiel WordPresss"
+
+#: plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Obligatoire"
+
+#: plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Omettre ce conseil."
+
+#: plugins/class-tgm-plugin-activation.php:386
+#: plugins/class-tgm-plugin-activation.php:827
+#: plugins/class-tgm-plugin-activation.php:2533
+#: plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: plugins/class-tgm-plugin-activation.php:387
+#: plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "L'extension a bien été activée."
+
+#: plugins/class-tgm-plugin-activation.php:388
+#: plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "L'extension suivante a bien été activée:"
+
+#. translators: 1: dashboard link.
+#: plugins/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont été installées et activées. %1$s"
+
+#: plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencer à activer le plugin"
+msgstr[1] "Commencer l'activation des plugins"
+
+#: plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l'installation des extensions requises."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencer l'installation du plugin"
+msgstr[1] "Commencer l'installation de plugins"
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Extension en cours d&rsquo;installation&nbsp;: %s"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installer les extensions requises"
+
+#: plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installer des extensions"
+
+#: inc/template-tags.php:81
+msgid "<span class=\"posted-on\"><i class=\"fa fa-calendar\"></i> %1$s</span><span class=\"byline\"><i class=\"fa fa-user\"></i> %2$s</span>"
+msgstr "<span class=\"posted-on\"><i class=\"fa fa-calendar\"></i> %1$s</span><span class=\"byline\"><i class=\"fa fa-user\"></i> %2$s</span>"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navigation de l'article"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciens"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigation au sein des articles"
+
+#: inc/rows.php:83
+msgid "Moesia Theme Widgets"
+msgstr "Widgets du thème Moesia"
+
+#: inc/rows.php:28
+msgid "A CSS class"
+msgstr "Une classe CSS"
+
+#: inc/rows.php:25
+msgid "Row Class"
+msgstr "Classe de ligne"
+
+#: inc/rows.php:32
+msgid "Cell Class"
+msgstr "Classe de cellule"
+
+#: inc/rows.php:35
+msgid "Class added to all cells in this row."
+msgstr "Classe ajoutée pour toutes les cellules dans cette ligne."
+
+#: inc/rows.php:21
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: inc/rows.php:17
+msgid "Background Color"
+msgstr "Couleur d&rsquo;arrière plan"
+
+#: inc/rows.php:13
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/customizer.php:2575 inc/customizer.php:2733
+msgid "Contain"
+msgstr "Contenu"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:2591
+msgid "Header max height > 1199px"
+msgstr "Hauteur maximum d'en-tête > 1199px"
+
+#: inc/customizer.php:2611
+msgid "Header max height > 1024px"
+msgstr "Hauteur maximum d'en-tête > 1024px"
+
+#: inc/customizer.php:2612
+msgid "Max height for the header at screen widths above 1024px"
+msgstr "Hauteur maximale d'en-tête sur les largeurs d'écran au dessus de 1024px"
+
+#: inc/customizer.php:2592
+msgid "Max height for the header at screen widths above 1199px"
+msgstr "Hauteur maximale d'en-tête sur les largeurs d'écran au dessus de 1199px"
+
+#: inc/customizer.php:2467
+msgid "Body font size"
+msgstr "Taille de police de corps"
+
+#: inc/customizer.php:2574 inc/customizer.php:2732
+msgid "Cover"
+msgstr "Couverture"
+
+#: inc/customizer.php:2312
+msgid "Select your desired font for the headings."
+msgstr "Sélectionnez votre police pour les grands titres."
+
+#: inc/customizer.php:2329
+msgid "Select your desired font for the body."
+msgstr "Sélectionnez votre police pour le corps de texte."
+
+#: inc/customizer.php:2347
+msgid "H1 font size"
+msgstr "Taille de police pour H1"
+
+#: inc/customizer.php:2367
+msgid "H2 font size"
+msgstr "Taille de police pour H2"
+
+#: inc/customizer.php:2387
+msgid "H3 font size"
+msgstr "Taille de police pour H3"
+
+#: inc/customizer.php:2407
+msgid "H4 font size"
+msgstr "Taille de police pour H4"
+
+#: inc/customizer.php:2427
+msgid "H5 font size"
+msgstr "Taille de police pour H5"
+
+#: inc/customizer.php:2447
+msgid "H6 font size"
+msgstr "Taille de police pour H6"
+
+#: inc/customizer.php:2487
+msgid "Home page widget titles size"
+msgstr "Taille de police des titres de widgets en page d'accueil"
+
+#: inc/customizer.php:2507
+msgid "Menu links font size"
+msgstr "Taille de police des liens des menus"
+
+#: inc/customizer.php:2518
+msgid "Moesia Pro"
+msgstr "Moesia Pro"
+
+#: inc/customizer.php:2520
+msgid "If you like Moesia and you want to see what Moesia Pro offers, have a look "
+msgstr "Si vous aimez Moesia et que vous voulez voir ce que propose Moesia Pro, jetez un oeil"
+
+#: inc/customizer.php:2549
+msgid "Small screens header image"
+msgstr "Image d'en-tête des petits écrans"
+
+#: inc/customizer.php:2553
+msgid "You can add below a smaller version of your header image and it will be displayed at screen widths below 1024px. This is important in case iPhones don't display your header image because of it being too big. You can also add a completely different image if you want, in case you have one that will look better on small screens. Recommended width: 1024px"
+msgstr "Vous pouvez ajouter ci-dessous une version réduite de votre image d'en-tête et elle sera affichée sur des largeurs d'écran inférieures à 1024 px. C'est important pour les iPhones qui n'affichent pas votre image d'en-tête parce qu'elle trop grande. Vous pouvez également ajouter une image complètement différente si vous le voulez, dans le cas où vous en auriez une qui rendrait mieux sur les petits écrans. Largeur recommandée&nbsp;: 1024 px"
+
+#: inc/customizer.php:2571
+msgid "Header background size"
+msgstr "Taille de fond d'en-tête"
+
+#: inc/customizer.php:2262
+msgid "Footer background"
+msgstr "Fond du pied de page"
+
+#: inc/customizer.php:2273
+msgid "Fonts"
+msgstr "Polices"
+
+#: inc/customizer.php:2199
+msgid "Site description"
+msgstr "Description du site"
+
+#: inc/customizer.php:2241
+msgid "Text"
+msgstr "Texte"
+
+#: inc/customizer.php:2220
+msgid "Entry title"
+msgstr "Titre de l'entrée"
+
+#: inc/customizer.php:2048
+msgid "Message"
+msgstr "Message"
+
+#: inc/customizer.php:2115
+msgid "Menu background"
+msgstr "Fond du menu"
+
+#: inc/customizer.php:2178
+msgid "Site title"
+msgstr "Titre du site"
+
+#: inc/customizer.php:1950
+msgid "See all button"
+msgstr "Voir tous les boutons"
+
+#: inc/customizer.php:1965
+msgid "Call to action section"
+msgstr "Section appel à l'action"
+
+#: inc/customizer.php:1985
+msgid "Call to action section background color"
+msgstr "Section appel à l'action couleur de l'arrière-plan"
+
+#: inc/customizer.php:2006
+msgid "Call to action section main title color"
+msgstr "Section appel à l'action couleur du titre principal"
+
+#: inc/customizer.php:2027
+msgid "Call to action section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section appel à l'action décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:2099
+msgid "Not all of the color settings found in this section apply to the front page."
+msgstr "Les paramètres de couleur trouvés dans cette section se appliquent pas tous à la première page."
+
+#: inc/customizer.php:2136
+msgid "Menu links"
+msgstr "Menu liens"
+
+#: inc/customizer.php:2157
+msgid "Primary color (Updates after you click Save&amp;Publish)"
+msgstr "Couleur primaire (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1929
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: inc/customizer.php:871
+msgid "Employees section background color"
+msgstr "Section employés couleur d'arrière-plan"
+
+#: inc/customizer.php:892
+msgid "Employees section main title color"
+msgstr "Section employés couleur du titre principal"
+
+#: inc/customizer.php:913
+msgid "Employees section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section employés décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:934
+msgid "Employees section names"
+msgstr "Section employés noms"
+
+#: inc/customizer.php:955
+msgid "Employees section functions&amp;social icons"
+msgstr "Section employés fonctions &amp; icônes sociaux"
+
+#: inc/customizer.php:976
+msgid "Employees section body"
+msgstr "Section employé corps de texte"
+
+#: inc/customizer.php:991
+msgid "Testimonials section"
+msgstr "Section témoignages"
+
+#: inc/customizer.php:1011
+msgid "Testimonials section background color"
+msgstr "Section témoignages couleur d'arrière-plan"
+
+#: inc/customizer.php:1032
+msgid "Testimonials section main title color"
+msgstr "Section témoignages couleur du titre principal"
+
+#: inc/customizer.php:1053
+msgid "Testimonials section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section témoignages décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1074
+msgid "Testimonials section - clients names"
+msgstr "Section témoignages - noms de clients"
+
+#: inc/customizer.php:1095
+msgid "Testimonials section - clients functions"
+msgstr "Section témoignages - fonctions clients"
+
+#: inc/customizer.php:1116
+msgid "Testimonials section - item background "
+msgstr "Section témoignages - élément d'arrière plan"
+
+#: inc/customizer.php:1137
+msgid "Testimonials section - item text color"
+msgstr "Section témoignages - couleur d'élément de texte"
+
+#: inc/customizer.php:1152
+msgid "Skills section"
+msgstr "Section compétences"
+
+#: inc/customizer.php:1172
+msgid "Skills section background color"
+msgstr "Section compétences couleur d'arrière-plan"
+
+#: inc/customizer.php:1193
+msgid "Skills section main title color"
+msgstr "Section compétences couleur titre principal"
+
+#: inc/customizer.php:1214
+msgid "Skills section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section compétences décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1235
+msgid "Skills section - skills bar"
+msgstr "Section compétences - barre des compétences"
+
+#: inc/customizer.php:1256
+msgid "Skills section - body text"
+msgstr "Section compétences - corps de texte"
+
+#: inc/customizer.php:1271
+msgid "Facts section"
+msgstr "Section faits"
+
+#: inc/customizer.php:1291
+msgid "Facts section background color"
+msgstr "Section faits couleur d'arrière-plan"
+
+#: inc/customizer.php:1312
+msgid "Facts section main title color"
+msgstr "Section faits couleur du titre principal"
+
+#: inc/customizer.php:1333
+msgid "Facts section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section faits décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder & Publier)"
+
+#: inc/customizer.php:1354
+msgid "Facts section - facts numbers"
+msgstr "Section faits - nombre de faits"
+
+#: inc/customizer.php:1375
+msgid "Facts section - body text"
+msgstr "Section faits - corps de texte"
+
+#: inc/customizer.php:1390
+msgid "Clients section"
+msgstr "Section clients"
+
+#: inc/customizer.php:1410
+msgid "Clients section background color"
+msgstr "Section clients couleur d'arrière-plan"
+
+#: inc/customizer.php:1431
+msgid "Clients section main title color"
+msgstr "Section clients couleur du titre principal"
+
+#: inc/customizer.php:1452
+msgid "Clients section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section clients décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1473
+msgid "Clients section - slider controls (Updates after you press Save&amp;Publish)"
+msgstr "Section clients contrôles du curseur (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1488
+msgid "Blockquote section"
+msgstr "Section bloc de citation"
+
+#: inc/customizer.php:1508
+msgid "Blockquote section background color"
+msgstr "Section bloc de citation couleur d'arrière plan"
+
+#: inc/customizer.php:1529
+msgid "Blockquote section main title color"
+msgstr "Section bloc de citation couleur du titre principal"
+
+#: inc/customizer.php:1550
+msgid "Blockquote section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section bloc de citation décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1571
+msgid "Blockquote section - blockquote icon (Updates after you press Save&amp;Publish)"
+msgstr "Section bloc de citation - icônes de bloc de citation (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1592
+msgid "Blockquote section - body text"
+msgstr "Section bloc de citation - corps de texte"
+
+#: inc/customizer.php:1607
+msgid "Social section"
+msgstr "Section sociale"
+
+#: inc/customizer.php:1627
+msgid "Social section background color"
+msgstr "Section sociale couleur d'arrière-plan"
+
+#: inc/customizer.php:1648
+msgid "Social section main title color"
+msgstr "Section sociale couleur du titre principal"
+
+#: inc/customizer.php:1669
+msgid "Social section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section sociale décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1690
+msgid "Social section - social icons (Updates after you press Save&amp;Publish)"
+msgstr "Section sociale - icônes sociaux (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1706
+msgid "Projects section"
+msgstr "Section projets"
+
+#: inc/customizer.php:1726
+msgid "Projects section background color"
+msgstr "Section projets couleur d'arrière-plan"
+
+#: inc/customizer.php:1747
+msgid "Projects section main title color"
+msgstr "Section projets couleur du titre principal"
+
+#: inc/customizer.php:1768
+msgid "Projects section main title decoration"
+msgstr "Section projets décoration du titre principal"
+
+#: inc/customizer.php:1789
+msgid "Projects section - item background (on hover)"
+msgstr "Section projets - élément d'arrière-plan (au survol)"
+
+#: inc/customizer.php:1810
+msgid "Projects section - projects icons"
+msgstr "Section projets - icônes des projets"
+
+#: inc/customizer.php:1825
+msgid "Latest news section"
+msgstr "Section dernières nouvelles"
+
+#: inc/customizer.php:1845
+msgid "Latest news section background color"
+msgstr "Section dernières nouvelles couleur d'arrière-plan"
+
+#: inc/customizer.php:1866
+msgid "Latest news section main title color"
+msgstr "Section dernières nouvelles couleur du titre principal"
+
+#: inc/customizer.php:1887
+msgid "Latest news section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section dernières nouvelles décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:1908
+msgid "Post titles"
+msgstr "Titres des articles"
+
+#: inc/customizer.php:632
+msgid "Check this box to show the nav bar at top (changes will be visible after you save and exit the Customizer)."
+msgstr "Cochez cette case pour afficher la barre de navigation supérieure (les changements seront visibles après avoir enregistré et quitté le customizer)."
+
+#: inc/customizer.php:649
+msgid "Menu bar height"
+msgstr "Hauteur de la barre de menu"
+
+#: inc/customizer.php:650
+msgid "The 40px default value refers to the top/bottom padding"
+msgstr "Les 40px de valeur par défaut se réfèrent au padding haut/bas"
+
+#: inc/customizer.php:669
+msgid "Menu bar height [sticky]"
+msgstr "Hauteur de la barre de menu [collé]"
+
+#: inc/customizer.php:670
+msgid "This option refers to the menu in sticky mode"
+msgstr "Cette option se réfère au menu en mode collé"
+
+#: inc/customizer.php:689
+msgid "Stop the nav bar from being sticky?"
+msgstr "Empêcher la bar de navigation d'être collée&nbsp;?"
+
+#: inc/customizer.php:698
+msgid "Front Page Colors"
+msgstr "Colorisation de la première page"
+
+#: inc/customizer.php:700
+msgid "Here you can change the colors for each type of front page section."
+msgstr "Ici vous pouvez changer les couleurs pour chaque type de section de la première page."
+
+#: inc/customizer.php:711
+msgid "Services section"
+msgstr "Section services"
+
+#: inc/customizer.php:731
+msgid "Services section background color"
+msgstr "Section services couleur d'arrière-plan"
+
+#: inc/customizer.php:752
+msgid "Services section main title color"
+msgstr "Section services couleur du titre principal"
+
+#: inc/customizer.php:773
+msgid "Services section main title decoration (Updates after you press Save&amp;Publish)"
+msgstr "Section services décoration du titre principal (met à jour après avoir appuyé sur Sauvegarder &amp; Publier)"
+
+#: inc/customizer.php:794
+msgid "Services section icons background"
+msgstr "Section services icônes d'arrière-plan"
+
+#: inc/customizer.php:815
+msgid "Services section item titles"
+msgstr "Section titres d'élément"
+
+#: inc/customizer.php:836
+msgid "Services section body"
+msgstr "Section service corps de page"
+
+#: inc/customizer.php:851
+msgid "Employees section"
+msgstr "Sections employés"
+
+#: inc/customizer.php:616
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer.php:370
+msgid "Choose your excerpt length here. Default: 30 words"
+msgstr "Choisissez votre longueur extrait ici. Par défaut : 30 Mots"
+
+#: inc/customizer.php:605 inc/customizer.php:2090
+msgid "Button box shadow"
+msgstr "Ombre de la boite boutton"
+
+#: inc/customizer.php:352
+msgid "Check this box to display the full content of your posts on the home page."
+msgstr "Cocher cette case pour afficher le contenu complet de vos articles sur la page d'accueil."
+
+#: inc/customizer.php:369
+msgid "Excerpt lenght"
+msgstr "Longueur des extraits"
+
+#: inc/customizer.php:381
+msgid "Welcome Area"
+msgstr "Zone de bienvenue"
+
+#: inc/customizer.php:396
+msgid "Welcome title (not the site title)"
+msgstr "Titre de bienvenue (ceci n'est pas le titre du site)"
+
+#: inc/customizer.php:415
+msgid "Welcome logo. Displayed instead of the welcome title from the previous option."
+msgstr "Logo de bienvenue. Sera affiché à la place du titre de bienvenue de la précédente option."
+
+#: inc/customizer.php:436
+msgid "Welcome logo size"
+msgstr "Taille du logo de Bienvenue"
+
+#: inc/customizer.php:454
+msgid "Welcome message (not the site description)"
+msgstr "Message de bienvenue (ceci n'est pas la description du site)"
+
+#: inc/customizer.php:471
+msgid "The text for the call to action button"
+msgstr "Le texte pour l'appel du bouton d'action"
+
+#: inc/customizer.php:488
+msgid "The link for the call to action button"
+msgstr "Le lien pour l'appel du bouton d'action"
+
+#: inc/customizer.php:506
+msgid "Check this box if you want to disable the header image and text on all pages except the front page."
+msgstr "Cochez cette case si vous voulez désactiver l'image d'en-tête et le texte sur toutes les pages, à l'exception de la page d'accueil."
+
+#: inc/customizer.php:523
+msgid "Check this box if you want to disable the header overlay pattern."
+msgstr "Cochez cette case si vous voulez désactiver le motif de superposition sur l'en-tête."
+
+#: inc/customizer.php:542
+msgid "Welcome title color"
+msgstr "Couleur du titre de bienvenue"
+
+#: inc/customizer.php:563
+msgid "Welcome message color"
+msgstr "Couleur du message de bienvenue"
+
+#: inc/customizer.php:584 inc/customizer.php:2069
+msgid "Button background"
+msgstr "Arrière-plan du bouton"
+
+#: inc/customizer.php:330
+msgid "Layout"
+msgstr "Agencement"
+
+#: inc/customizer.php:273
+msgid "Check this box to show featured images on single posts"
+msgstr "Cochez cette case pour afficher les images mise en avant sur les articles individuels."
+
+#: inc/customizer.php:288
+msgid "Check this box to show featured images on pages"
+msgstr "Cochez cette case pour afficher les images mise en avant sur les pages individuelles."
+
+#: inc/customizer.php:303
+msgid "Check this box to display the author bio on single posts. You can add your author bio and social links on the Users screen in the Your Profile section."
+msgstr "Cochez cette case pour afficher la bio de l'auteur sur les articles individuels. Vous pouvez ajouter votre bio et vos liens sociaux depuis l'écran Utilisateur de votre Profil."
+
+#: inc/customizer.php:311
+msgid "Blog options"
+msgstr "Options du Blog"
+
+#: inc/customizer.php:313
+msgid "The blog layout can use either small featured images or large featured images. Select your desired option below."
+msgstr "La mise en page du Blog permet l'utilisation de petites ou de grandes images mises en avant.  Sélectionnez votre option ci-dessous."
+
+#: inc/customizer.php:73
+msgid "Logo size"
+msgstr "Taille du logo"
+
+#: inc/customizer.php:115
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr "Télécharger votre Apple Touch Icon (144 x 144 pixels)"
+
+#: inc/customizer.php:136
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr "Télécharger votre Apple Touch Icon (114 x 114 pixels)"
+
+#: inc/customizer.php:157
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr "Télécharger votre Apple Touch Icon (72 x 72 pixels)"
+
+#: inc/customizer.php:178
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr "Télécharger votre Apple Touch Icon (57 x 57 pixels)"
+
+#: inc/customizer.php:198
+msgid "Check this box if you want to disable the animations."
+msgstr "Cochez cette case si vous souhaitez désactiver les animations."
+
+#: inc/customizer.php:52
+msgid "Upload your logo"
+msgstr "Transférez votre logo"
+
+#: inc/customizer.php:74
+msgid "Menu-content spacing will return to normal after you save &amp; exit the Customizer"
+msgstr "L'espacement du contenu du menu sera de retour à la normale après avoir enregistré &amp; quitté le customizer"
+
+#: inc/customizer.php:94
+msgid "Upload your favicon"
+msgstr "Charger votre favicon"
+
+#: inc/customizer.php:215
+msgid "Check this box to hide the sidebar widgets on screen widths below 1024px"
+msgstr "Cocher cette case pour masquer les widgets inférieurs à 1024px sur la barre latérale."
+
+#: inc/customizer.php:232
+msgid "Check this box to hide the footer widgets on screen widths below 1024px"
+msgstr "Cocher cette case pour masquer les widgets inférieurs à 1024px sur la barre de  pied de page."
+
+#: inc/customizer.php:249
+msgid "Activate header search icon?"
+msgstr "Activer l'icône de recherche en en-tête&nbsp;?"
+
+#: inc/customizer.php:258
+msgid "Single posts/pages"
+msgstr "Articles/Pages individuels"
+
+#: inc/customizer.php:35
+msgid "General"
+msgstr "Options du compte"
+
+#: functions.php:103
+msgid "Footer A"
+msgstr "Footer A"
+
+#: functions.php:111
+msgid "Footer B"
+msgstr "Pied de page B"
+
+#: functions.php:119
+msgid "Footer C"
+msgstr "Pied de page C"
+
+#: header.php:38
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: functions.php:94
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:25
+msgid "Theme: %2$s by %1$s"
+msgstr "Thème : %2$s par %1$s"
+
+#: footer.php:23
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: content-search.php:44
+msgid "Tagged %1$s"
+msgstr "Identifié %1$s"
+
+#: footer.php:23
+msgid "http://wordpress.org/"
+msgstr "http://www.wordpress-fr.net/"
+
+#: content-single.php:44
+msgid "<a href=\"%3$s\" rel=\"bookmark\"> permalink</a>."
+msgstr "<a href=\"%3$s\" rel=\"bookmark\"> permalien</a>."
+
+#: content-single.php:46 content-single.php:52 content-single.php:54
+msgid "<a href=\"%3$s\" rel=\"bookmark\"> permalink</a>"
+msgstr "<a href=\"%3$s\" rel=\"bookmark\"> permalien</a>"
+
+#: content-search.php:34
+msgid "Posted in %1$s"
+msgstr "Publié dans  %1$s"
+
+#: content-project.php:10
+msgid "Project name:"
+msgstr "Nom du projet :"
+
+#: content-project.php:15
+msgid "Project description:"
+msgstr "Description du projet&nbsp;:"
+
+#: content-page.php:25 content-project.php:19 content-single.php:27
+#: page_front-page.php:15
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que ce que vous cherchez est introuvable. Essayez avec une recherche."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots différents."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt(e) à publier votre premier article? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun Résultat"
+
+#: content-large.php:63 content-page.php:31 content-project.php:26
+#: content-search.php:53 content-single.php:67 content.php:70
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-large.php:60 content-search.php:50 content.php:67
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: content-large.php:60 content-search.php:50 content.php:67
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: content-large.php:60 content-search.php:50 content.php:67
+msgid "Leave a comment"
+msgstr "Écrire un commentaire"
+
+#. translators: used between list items, there is a space after the comma
+#: content-large.php:40 content-large.php:50 content-search.php:30
+#: content-search.php:40 content-single.php:36 content-single.php:39
+#: content.php:47 content.php:57
+msgid ", "
+msgstr ", "
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires Pr&eacute;c&eacute;dents"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+msgstr[1] "%1$s réflexions au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+
+#: author-bio.php:44
+msgid "See all posts by %s"
+msgstr "Voir tous les articles de %s "
+
+#: author-bio.php:37
+msgid "About %s"
+msgstr "A propos %s"
+
+#: archive.php:66
+msgid "Chats"
+msgstr "Chat"
+
+#: archive.php:69
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:60
+msgid "Statuses"
+msgstr "Statuts"
+
+#: archive.php:63
+msgid "Audios"
+msgstr "Audio"
+
+#: archive.php:57
+msgid "Links"
+msgstr "Liens:"
+
+#: archive.php:54
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:51
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:48
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:45
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:42
+msgid "Asides"
+msgstr "En passant"
+
+#: archive.php:39
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:39
+msgid "Year: %s"
+msgstr "Année&nbsp;: %s"
+
+#: archive.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:36
+msgid "Month: %s"
+msgstr "Mois&nbsp;: %s"
+
+#: archive.php:33
+msgid "Day: %s"
+msgstr "Jour&nbsp;: %s"
+
+#: archive.php:30
+msgid "Author: %s"
+msgstr "Auteur&nbsp;: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:27
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de voir du côté des archives mensuelles. %1$s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Contenu Introuvable. L'outil de Recherche ou les Liens ci-dessous vous remettront peut-être sur la voie&hellip;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups&nbsp;! Cette page est introuvable."
+
+#. Author of the plugin/theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://athemes.com"
+msgstr "http://athemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://athemes.com/theme/moesia"
+msgstr "http://athemes.com/theme/moesia"
