@@ -231,7 +231,7 @@ endif; ?>
 		
 		
 		
-						<div class="srch clearfix">
+						<!-- <div class="srch clearfix">
     						<form method="GET" action="<?php echo get_site_url(); ?>">
         						<div class="container cbd">
         							<input max-length="120" autocomplete="off" placeholder="Rechercher..." value="<?php the_search_query(); ?>" name="s" id="q">
@@ -239,7 +239,7 @@ endif; ?>
         							</button>
         						</div>
    							 </form>
-						</div>
+						</div> -->
 
 
 
