@@ -1,13 +1,13 @@
-=== Contact Form & SMTP Plugin by PirateForms ===
+=== Contact Form & SMTP Plugin for WordPress by PirateForms ===
 Contributors: themeisle, codeinwp, rodicaelena, hardeepasrani, pirateforms
-Tags:  contact forms plugin, contact form, contact us, contact us form, contacts form plugin, custom form, subscribe form, feedback form, wordpress contact form
+Tags:  contact form, contact form plugin, forms, smtp, custom form, subscribe form, feedback form, wordpress contact form
 Requires at least: 3.0
 Tested up to: 4.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple and effective WordPress contact form & SMTP plugin. Compatible with best themes out there, is both secure and responsive.
+A simple and effective WordPress contact form & SMTP plugin. Compatible with best themes out there, is both a secure and responsive contact form plugin.
 
 == Description ==
 
@@ -63,6 +63,35 @@ If are you looking for other alternatives check-out our article on <a href="http
 
 This plugin started as a fork of https://wordpress.org/plugins/proper-contact-form/.
 
+== Frequently Asked Questions ==
+
+= How I can get support for this contact form plugin ? =
+
+You can learn more about PirateForms and ask for help by <a href="https://themeisle.com/contact/"  >visiting ThemeIsle website</a>.
+
+= What can i do with this plugin =
+
+You can follow the full documentation [here](http://docs.themeisle.com/article/436-pirate-forms-documentation)
+
+= How to Change Pirate Forms Submit Button Color =
+
+[http://docs.themeisle.com/article/423-how-to-change-pirate-forms-submit-button-color](http://docs.themeisle.com/article/423-how-to-change-pirate-forms-submit-button-color)
+
+= How to Center the Send Message button for Pirate Forms =
+[http://docs.themeisle.com/article/427-how-to-center-the-send-message-button-for-pirate-forms](http://docs.themeisle.com/article/427-how-to-center-the-send-message-button-for-pirate-forms)
+
+= How to change font in Pirate Forms =
+[http://docs.themeisle.com/article/431-how-to-change-font-in-pirate-forms](http://docs.themeisle.com/article/431-how-to-change-font-in-pirate-forms)
+
+
+= How you can overwrite the default form template in Pirate Forms =
+[http://docs.themeisle.com/article/664-how-you-can-overwrite-the-default-form-template-in-pirate-forms](http://docs.themeisle.com/article/664-how-you-can-overwrite-the-default-form-template-in-pirate-forms)
+
+
+= What actions and filters are available in Pirate Forms =
+[http://docs.themeisle.com/article/663-what-actions-and-filters-are-available-in-pirate-forms](http://docs.themeisle.com/article/663-what-actions-and-filters-are-available-in-pirate-forms)
+
+
 == Installation ==
 
 Activating the Pirate Contact Form plugin is just like any other plugin. If you've uploaded the plugin package to your server already, skip to step 5 below:
@@ -75,6 +104,7 @@ Activating the Pirate Contact Form plugin is just like any other plugin. If you'
 6. Make the changes desired, then click the **Save changes** button at the bottom
 7. To add this form to any page or post, just copy/paste or type "[pirate_forms]" into the page or post content and save. The form should appear on that page
 
+
 == Screenshots ==
 
 1. Screenshot 1. How to use contact form in posts/pages
@@ -83,8 +113,18 @@ Activating the Pirate Contact Form plugin is just like any other plugin. If you'
 4. Screenshot 4. Enabling SMTP
 
 == Changelog ==
-= 1.2.5 = 
+= 2.0.1 - 2017-08-01  = 
 
+* Fixed backwards compatibility with Zerif themes
+
+
+= 2.0.0 - 2017-08-01  = 
+
+* Major code refactor ( Please TEST BEFORE updating).
+* Added multiple filters and hooks to be easily extended by developers. 
+* Fixed some issues with attachment fields.
+* Added support for TLS.
+* Added support to change browser required messages.
 
 
 
@@ -140,11 +180,6 @@ Activating the Pirate Contact Form plugin is just like any other plugin. If you'
 
 = 1.0.9 =
 * Fixed layout issues #52
-* Update readme.txt with == Changelog == section #51
-= 1.2.5 = 
-
-
-
 
 = 1.0.8 =
 * Update readme.txt

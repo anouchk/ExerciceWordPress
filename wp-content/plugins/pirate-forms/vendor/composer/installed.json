@@ -39,31 +39,20 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Codeinwp/themeisle-sdk.git",
-            "reference": "baa84a7f47fabed805b7678b5d01775d0d16cc9f"
+            "reference": "ebbbe0398ef8ee9922d17704e1dd2e9114e53ccb"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/baa84a7f47fabed805b7678b5d01775d0d16cc9f",
-            "reference": "baa84a7f47fabed805b7678b5d01775d0d16cc9f",
+            "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/ebbbe0398ef8ee9922d17704e1dd2e9114e53ccb",
+            "reference": "ebbbe0398ef8ee9922d17704e1dd2e9114e53ccb",
             "shasum": ""
         },
-        "time": "2017-05-31 11:42:19",
+        "time": "2017-07-04 13:54:14",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
-            "classmap": [
-                "class-themeisle-sdk-loader.php",
-                "class-themeisle-sdk-product.php",
-                "class-themeisle-sdk-logger.php",
-                "class-themeisle-sdk-licenser.php",
-                "class-themeisle-sdk-feedback-factory.php",
-                "class-themeisle-sdk-feedback.php",
-                "class-themeisle-sdk-feedback-deactivate.php",
-                "class-themeisle-sdk-feedback-review.php",
-                "class-themeisle-sdk-notification-manager.php",
-                "class-themeisle-sdk-widget.php",
-                "class-themeisle-sdk-widget-dashboard-blog.php",
-                "class-themeisle-sdk-widgets-factory.php"
+            "files": [
+                "load.php"
             ]
         },
         "license": [

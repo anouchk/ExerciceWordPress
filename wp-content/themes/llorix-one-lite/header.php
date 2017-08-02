@@ -152,7 +152,7 @@ endif; ?>
 			?>
 
 			<!-- CONTAINER -->
-			<div class="container">
+			<div class="container entete">
 
 				<div class="navbar-header">
 
